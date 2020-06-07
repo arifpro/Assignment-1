@@ -6,7 +6,7 @@ This website is deployed on Github.
 
 ## Screenshots
 
-![Screenshot](https://ibb.co/K0rrRG5)
+![Screenshot](https://i.ibb.co/Wx22q3H/Fire-Shot-Capture-012-Programming-Hero-First-Assignment-arifweb-me.png)
 
 
 ## Tech/framework used 
