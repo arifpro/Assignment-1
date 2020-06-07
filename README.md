@@ -6,7 +6,7 @@ This website is deployed on Github.
 
 ## Screenshots
 
-![alt text](https://ibb.co/K0rrRG5)
+![Screenshot](https://ibb.co/K0rrRG5)
 
 
 ## Tech/framework used 
